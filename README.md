@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rajhaladkar9808@gmail.com**
 
-- ⚡ Fun fact **I have three names Pruthviraj, Raj & Bablu.**
+- ⚡ Fun fact **I have two names Pruthviraj & Raj**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
