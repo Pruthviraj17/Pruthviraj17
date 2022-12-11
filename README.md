@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)](https://pruthviraj17.io)
+[![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)](https://github.com/Pruthviraj17)
 <h1 align="center">Hi 👋, I'm Pruthviraj</h1>
 <h3 align="center">A Guy Who Have Deep Intrest Towards Technology.</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
