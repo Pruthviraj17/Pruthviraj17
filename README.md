@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Pruthviraj17)
-<h1 align="center">Hi 👋, I'm Pruthviraj</h1>
+<h1 align="center">Heyy! 👋, I'm Pruthviraj</h1>
 <h3 align="center">A Passionate Software Developer From India 🇮🇳</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
