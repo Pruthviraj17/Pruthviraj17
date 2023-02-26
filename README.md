@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pruthviraj17?tab=repositories](https://github.com/Pruthviraj17?tab=repositories)
 
-- 💬 Ask me about **C, C++, Java, HTML/CSS**
+- 💬 Ask me about **C++, Java, HTML/CSS, JavaScript**
 
 - 📫 How to reach me **rajhaladkar9808@gmail.com**
 
-- ⚡ Fun fact **I have two names Pruthviraj & Raj**
+- ⚡ Fun fact **I Use Tabs over Spaces**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
