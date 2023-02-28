@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)](https://github.com/Pruthviraj17)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Pruthviraj17)
 <h1 align="center">Heyy! 👋, I'm Pruthviraj</h1>
 <h3 align="center">A Passionate Full Stack Developer From India 🇮🇳</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/hey_pruthviraj_" target="blank"><img src="https://img.shields.io/twitter/follow/hey_pruthviraj_?logo=twitter&style=for-the-badge" alt="hey_pruthviraj_" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently Working on **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pruthviraj17?tab=repositories](https://github.com/Pruthviraj17?tab=repositories)
 
-- 💬 Ask me about **C++, Java, HTML/CSS, JavaScript**
+- 💬 Ask me about **C++, Java**
 
 - 📫 How to reach me **rajhaladkar9808@gmail.com**
 
