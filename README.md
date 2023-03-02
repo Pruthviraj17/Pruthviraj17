@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pruthviraj17?tab=repositories](https://github.com/Pruthviraj17?tab=repositories)
 
-- 💬 Ask me about **C++, Java, Android**
+- 💬 Ask me about **C++, Java**
 
 - 📫 How to reach me **rajhaladkar9808@gmail.com**
 
