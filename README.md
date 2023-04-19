@@ -1,4 +1,3 @@
-[![MasterHead](https://www.androiddeveloper.co.in/blog/wp-content/uploads/2016/03/Android-App-Development-2.jpg)](https://github.com/Pruthviraj17)
 <h1 align="center">Heyy!, I'm Pruthviraj</h1>
 <h3 align="center">A Passionate Software Engineer from India 🇮🇳📲</h3>
 
