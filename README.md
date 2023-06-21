@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hey_pruthviraj_" target="blank"><img src="https://img.shields.io/twitter/follow/hey_pruthviraj_?logo=twitter&style=for-the-badge" alt="hey_pruthviraj_" /></a> </p>
 
-- 🌱 I’m currently Learning **SPRING**
+- 🌱 I’m currently Learning **SPRING BOOT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pruthviraj17?tab=repositories](https://github.com/Pruthviraj17?tab=repositories)
 
