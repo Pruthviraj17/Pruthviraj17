@@ -1,4 +1,3 @@
-[![MasterHead](https://i.postimg.cc/hvLmb6jD/linkedin-banner.png)](https://pruthvirajhaladkar.netlify.app/)
 <h1 align="center">Heyy!, I'm Pruthviraj</h1>
 <h3 align="center">A Passionate Software Engineer from India 🇮🇳📲</h3>
 
