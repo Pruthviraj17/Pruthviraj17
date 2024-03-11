@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rajhaladkar9808@gmail.com**
 
-- ⚡ Fun fact **I Use Tabs over Spaces**
+- ⚡ Fun fact **My code never excutes first time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
