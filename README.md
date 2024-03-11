@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rajhaladkar9808@gmail.com**
 
-- ⚡ Fun fact **My code never excutes first time**
+- ⚡ Fun fact **My code never executes first**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
