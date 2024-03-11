@@ -11,14 +11,12 @@
 
 - 🌱 I’m currently Learning **Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pruthviraj17?tab=repositories](https://github.com/Pruthviraj17?tab=repositories)
-
 - 💬 Let's talk about **Development, New Technologies & Frameworks**
-
-- 📫 How to reach me **rajhaladkar9808@gmail.com**
-
+  
 - ⚡ Fun fact **My code never executes first**
 
+- 📫 How to reach me **rajhaladkar9808@gmail.com**👇
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hey_pruthviraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hey_pruthviraj_" height="30" width="40" /></a>
