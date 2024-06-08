@@ -46,7 +46,7 @@ My Github Stats
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,firebase,git,docker,figma,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,firebase,git,githubactions,docker,figma,gcp)](https://skillicons.dev)
 
 <!--
 <div align="left">
