@@ -1,25 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<!-- The New Code -->
+<h2 >
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&left=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pruthviraj!;" />
 
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pruthviraj!;" />
-</h1>
-
-<h3 align="left">A passionate software developer from India 🇮🇳</h3>
-
-<br/>
-
-<div align="left">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Flutter, Android, Node.js, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
 <div align="left"> 
   <a href="rajhaladkar9808@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -31,18 +13,41 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+</h2>
 
- <hr/>
+<h4 >
+ I like to develop tech solutions that solve real-life problems and make life better.
+</h4>
+
+<h2>GitHub Stats</h2>
+<details>
+<summary> 
+My Github Stats
+</summary>
+
+![Pruthviraj's Github Stats](https://github-readme-stats.vercel.app/api?username=Pruthviraj17&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
+
+</details>
+
+
+
+<h2>Languages</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=java,dart,c,cpp,js,python,kotlin)](https://skillicons.dev)
+
+<h2>Frameworks</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=flutter,nodejs,express)](https://skillicons.dev)
+
+<h2>Databases</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+<h2>Tools</h2>
  
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,firebase,git,docker,figma,gcp)](https://skillicons.dev)
 
-<br/>
-<hr/>
 
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
@@ -60,3 +65,15 @@
 </div>
 
 <br/>
+
+<div align="left">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Flutter, Android, Node.js, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
