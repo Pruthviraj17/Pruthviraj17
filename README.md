@@ -34,15 +34,15 @@ My Github Stats
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,dart,c,cpp,js,python,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,dart,python,c,cpp,js,kotlin)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=flutter,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,fastapi,nodejs,express)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
