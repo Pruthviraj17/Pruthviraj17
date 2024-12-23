@@ -36,9 +36,9 @@ My Github Stats
 
 [![My Skills](https://skillicons.dev/icons?i=java,dart,python,c,cpp,js,kotlin)](https://skillicons.dev)
 
-<h2>Frameworks</h2>
+<h2>Technologies</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=flutter,fastapi,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,spring,hibernate,nodejs,express)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
@@ -46,7 +46,7 @@ My Github Stats
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,firebase,git,githubactions,docker,figma,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,postman,firebase,git,githubactions,docker,figma,gcp)](https://skillicons.dev)
 
 <!--
 <div align="left">
