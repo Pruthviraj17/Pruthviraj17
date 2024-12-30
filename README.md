@@ -20,7 +20,7 @@
 </h4>
 
 <h2>GitHub Stats</h2>
-<details open>
+<details>
 <summary> 
 My Github Stats
 </summary>
@@ -34,7 +34,7 @@ My Github Stats
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,dart,js,python,c,cpp,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,dart,js,ts,python,c,cpp,kotlin)](https://skillicons.dev)
 
 <h2>Technologies</h2>
   
@@ -48,7 +48,7 @@ My Github Stats
  
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,postman,firebase,git,githubactions,docker,figma,gcp)](https://skillicons.dev)
 
-
+<!--
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
   
@@ -77,3 +77,4 @@ My Github Stats
 
  </div>
 
+-->
