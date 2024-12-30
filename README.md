@@ -20,7 +20,7 @@
 </h4>
 
 <h2>GitHub Stats</h2>
-<details>
+<details open>
 <summary> 
 My Github Stats
 </summary>
@@ -38,7 +38,7 @@ My Github Stats
 
 <h2>Technologies</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=flutter,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,nodejs,express,html,css)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
@@ -48,7 +48,7 @@ My Github Stats
  
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,postman,firebase,git,githubactions,docker,figma,gcp)](https://skillicons.dev)
 
-<!--
+
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
   
@@ -76,4 +76,4 @@ My Github Stats
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
--->
+
