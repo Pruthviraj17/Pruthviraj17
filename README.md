@@ -19,62 +19,19 @@
     I am COMPUTER SCIENCE graduate. I'm interested in coding & solving problems. I enjoy building projects related to tech in my spare time.
 </h4>
 
-<h2>GitHub Stats</h2>
-<details>
-<summary> 
-My Github Stats
-</summary>
-
-![Pruthviraj's Github Stats](https://github-readme-stats.vercel.app/api?username=Pruthviraj17&show_icons=true&hide_title=true&count_private=true&theme=dark)
-
-</details>
-
 <h2>Tech Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,flutter,nextjs,react,tailwind,nodejs,express,postgres,mongodb,firebase,docker,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,flutter,nextjs,react,tailwind,nodejs,postgres,mongodb,firebase,docker,figma)](https://skillicons.dev)
 
-<!-- <h2>Languages</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=java,dart,js,ts,python,c,cpp,kotlin)](https://skillicons.dev)
-
-<h2>Technologies</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,react,spring,nodejs,express,fastapi,maven,gradle,hibernate,html,css)](https://skillicons.dev)
-
-<h2>Databases</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
-
-<h2>Tools</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,postman,firebase,git,github,githubactions,docker,figma,gcp)](https://skillicons.dev)
-
-<div align="left">
-  <h2>🐍 My Contributions 🐍</h2>
-
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-
-  <br/><br/><br/>
-</div>
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
-<div align="left">
-
- 🔭 I’m currently working on **a marketplace**
-
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Flutter, Android, Node.js, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
-
--->
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Pruthviraj17&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthviraj17&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
