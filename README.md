@@ -16,7 +16,7 @@
 </h2>
 
 <h4 >
-    I am COMPUTER SCIENCE graduate. I'm interested in coding & solving problems. I enjoy building projects related to tech in my spare time.
+   I am a Computer Science undergraduate. I'm interested in coding and problem-solving. I enjoy building tech-related projects in my leisure time.
 </h4>
 
 <h2>Tech Stack</h2>
@@ -29,7 +29,7 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 
-<details>
+<details open>
   <summary>Github Stats ⚡</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Pruthviraj17&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
